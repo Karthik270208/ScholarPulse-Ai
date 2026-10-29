@@ -1,0 +1,577 @@
+[
+  {
+    "id": "pm-usp-csss",
+    "name": "Central Sector Scheme of Scholarship for College and University Students (PM-USP CSSS)",
+    "short_name": "PM-USP Central Sector Scholarship",
+    "ministry": "Department of Higher Education, Ministry of Education, Govt. of India",
+    "scheme_type": "Central Sector",
+    "portal_name": "National Scholarship Portal (NSP)",
+    "official_portal_url": "https://scholarships.gov.in/",
+    "guidelines_url": "https://www.education.gov.in/sites/upload_files/mhrd/files/Scheme_CSSS.pdf",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Annual cycle typically opens on NSP between July and September; applications usually close around November-December. Academic deadlines are set yearly by the Ministry of Education.",
+    "benefit_amount_display": "₹12,000/yr (UG 1st-3rd yr) to ₹20,000/yr (PG / 4th-5th yr)",
+    "benefit_details": "Direct Benefit Transfer (DBT) of ₹12,000 per annum at Graduation level for first 3 years of College and University courses, and ₹20,000 per annum at Post-Graduation level. For 5-year integrated courses, ₹20,000/yr is paid in 4th & 5th year.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)", "Postgraduate (PG)"],
+      "allowed_years": ["1st Year", "2nd Year", "3rd Year", "4th Year", "5th Year", "Final Year"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["General / Open", "OBC (Non-Creamy Layer)", "Scheduled Caste (SC)", "Scheduled Tribe (ST)", "Economically Weaker Section (EWS)"],
+      "min_marks_percent": 80.0,
+      "max_annual_income": 450000,
+      "domicile_states": ["All India / Central"],
+      "pwd_required": false,
+      "minority_only": false,
+      "technical_course_only": false,
+      "single_girl_child_only": false,
+      "fresh_application_year": "1st Year",
+      "other_conditions": [
+        "Must be above 80th percentile of successful candidates in the relevant stream from the respective Board of Examination in Class XII (10+2).",
+        "Must be pursuing regular full-time degree courses from colleges/institutions recognized by AICTE, UGC, or respective regulatory bodies.",
+        "Students pursuing correspondence, distance mode, or diploma courses are not eligible.",
+        "Must not be in receipt of any other scholarship or fee reimbursement from Central or State Government."
+      ]
+    },
+    "required_documents": [
+      "Class 12th Board Marksheet showing roll number and marks",
+      "Aadhaar Card (linked to bank account)",
+      "Valid Annual Family Income Certificate issued by competent Revenue Authority (Tehsildar/SDM)",
+      "College Bonafide Student Certificate with roll number & enrollment details",
+      "College Fee Receipt for the current academic year",
+      "Active Bank Passbook/Statement showing IFSC and Account Number (Aadhaar Seeded)",
+      "Caste / Category Certificate (if applying under SC/ST/OBC quota)"
+    ],
+    "verification_checklist": [
+      "Check that your Class 12 board percentile is listed in the state board's top 20th percentile cut-off list on NSP.",
+      "Ensure family annual income certificate is within validity period (< ₹4,50,000).",
+      "Verify your bank account is Aadhaar seeded (NPCI mapped) to receive Direct Benefit Transfer (DBT).",
+      "Verify you are not claiming dual scholarship benefits from any other state or central scheme."
+    ]
+  },
+  {
+    "id": "aicte-pragati-degree",
+    "name": "AICTE Pragati Scholarship Scheme for Girl Students (Technical Degree)",
+    "short_name": "AICTE Pragati (Degree)",
+    "ministry": "All India Council for Technical Education (AICTE), Ministry of Education",
+    "scheme_type": "UGC/AICTE Technical",
+    "portal_name": "National Scholarship Portal (NSP)",
+    "official_portal_url": "https://scholarships.gov.in/",
+    "guidelines_url": "https://www.aicte-india.org/schemes/students-development-schemes/Pragati",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Opens annually on the National Scholarship Portal (NSP) around August-September. Selection is based on merit in qualifying examination.",
+    "benefit_amount_display": "₹50,000 per annum for every year of study",
+    "benefit_details": "Lump sum amount of ₹50,000 per annum credited directly to student bank account for every year of study towards college fees, purchase of computer, stationery, books, and equipment.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)"],
+      "allowed_years": ["1st Year", "2nd Year (Lateral Entry)"],
+      "target_genders": ["Female"],
+      "target_categories": ["General / Open", "OBC (Non-Creamy Layer)", "OBC (Creamy Layer)", "Scheduled Caste (SC)", "Scheduled Tribe (ST)", "Economically Weaker Section (EWS)"],
+      "min_marks_percent": null,
+      "max_annual_income": 800000,
+      "domicile_states": ["All India / Central"],
+      "pwd_required": false,
+      "minority_only": false,
+      "technical_course_only": true,
+      "single_girl_child_only": false,
+      "fresh_application_year": "1st Year",
+      "other_conditions": [
+        "Strictly for girl students admitted to 1st year of Degree Level course or 2nd year of Degree level course through lateral entry.",
+        "Institution must be AICTE approved.",
+        "Maximum two girls per family are eligible.",
+        "Selection is based solely on merit in the qualifying exam (Class 12th / Diploma) for admission to AICTE approved technical institution."
+      ]
+    },
+    "required_documents": [
+      "Class 10th and 12th Marksheets",
+      "Centralized Admission Process (CAP) allotment letter for technical degree",
+      "Current Academic Year College Tuition Fee Receipt",
+      "Income Certificate issued by Tehsildar/competent authority (gross income <= ₹8 Lakh)",
+      "Aadhaar Card",
+      "Bank Account details (Bank Passbook showing student's name, IFSC, Account number)",
+      "Declaration by parents confirming that they have not more than two eligible girl applicants"
+    ],
+    "verification_checklist": [
+      "Confirm college has active AICTE approval for your course branch for the current academic year.",
+      "Verify family income certificate is current and below ₹8,00,000.",
+      "Check that student bank account is strictly in applicant's sole name (not joint) and NPCI mapped."
+    ]
+  },
+  {
+    "id": "aicte-saksham-degree",
+    "name": "AICTE Saksham Scholarship Scheme for Specially-Abled Students (Technical Degree)",
+    "short_name": "AICTE Saksham (Degree)",
+    "ministry": "All India Council for Technical Education (AICTE), Ministry of Education",
+    "scheme_type": "UGC/AICTE Technical",
+    "portal_name": "National Scholarship Portal (NSP)",
+    "official_portal_url": "https://scholarships.gov.in/",
+    "guidelines_url": "https://www.aicte-india.org/schemes/students-development-schemes/Saksham",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Announced each academic session on the National Scholarship Portal (NSP).",
+    "benefit_amount_display": "₹50,000 per annum for every year of study",
+    "benefit_details": "₹50,000 per annum towards payment of college fees, purchase of computer, assistive devices, books, and study aids.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)"],
+      "allowed_years": ["1st Year", "2nd Year (Lateral Entry)"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["General / Open", "OBC (Non-Creamy Layer)", "OBC (Creamy Layer)", "Scheduled Caste (SC)", "Scheduled Tribe (ST)", "Economically Weaker Section (EWS)"],
+      "min_marks_percent": null,
+      "max_annual_income": 800000,
+      "domicile_states": ["All India / Central"],
+      "pwd_required": true,
+      "minority_only": false,
+      "technical_course_only": true,
+      "single_girl_child_only": false,
+      "fresh_application_year": "1st Year",
+      "other_conditions": [
+        "Specially-abled student having disability not less than 40% certified by competent medical authority.",
+        "Admitted to 1st year of Degree level course or 2nd year through lateral entry in an AICTE approved institution.",
+        "All eligible specially-abled candidates meeting criteria are awarded the scholarship."
+      ]
+    },
+    "required_documents": [
+      "Valid Disability Certificate issued by Competent Medical Authority (UDID Card / Government Medical Board)",
+      "Class 10th and 12th Marksheets",
+      "College Admission Allotment Letter in AICTE approved college",
+      "Current Year Fee Receipt",
+      "Annual Family Income Certificate (< ₹8 Lakh)",
+      "Aadhaar Card",
+      "Student Bank Passbook with NPCI Aadhaar seeding"
+    ],
+    "verification_checklist": [
+      "Ensure disability percentage is clearly stated as 40% or more on official UDID card or medical board certificate.",
+      "Verify college course is recognized under AICTE approval.",
+      "Check income certificate validity."
+    ]
+  },
+  {
+    "id": "pms-sc-central",
+    "name": "Post-Matric Scholarships Scheme for Scheduled Caste Students (PMS-SC)",
+    "short_name": "Post Matric SC Scholarship",
+    "ministry": "Ministry of Social Justice and Empowerment, Govt. of India",
+    "scheme_type": "Centrally Sponsored",
+    "portal_name": "National Scholarship Portal (NSP) / State Portals",
+    "official_portal_url": "https://scholarships.gov.in/",
+    "guidelines_url": "https://socialjustice.gov.in/schemes/26",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Processed via NSP or designated State scholarship portals according to state adoption guidelines. Typically active from July to December.",
+    "benefit_amount_display": "100% Compulsory Fee Waiver + up to ₹13,500/yr Maintenance Allowance",
+    "benefit_details": "Full non-refundable compulsory course fee coverage (tuition, library, exam fees) plus annual maintenance allowance ranging from ₹2,500 to ₹13,500 depending on course classification (Group 1 to Group 4) and hosteller/day scholar status.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)", "Postgraduate (PG)", "Diploma / Polytechnic", "Doctoral (PhD)", "Class 11 / 12 (Higher Secondary)", "ITI / Vocational"],
+      "allowed_years": ["1st Year", "2nd Year", "3rd Year", "4th Year", "5th Year", "Final Year"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["Scheduled Caste (SC)"],
+      "min_marks_percent": null,
+      "max_annual_income": 250000,
+      "domicile_states": ["All India / Central"],
+      "pwd_required": false,
+      "minority_only": false,
+      "technical_course_only": false,
+      "single_girl_child_only": false,
+      "other_conditions": [
+        "Belongs to Scheduled Caste (SC) community.",
+        "Pursuing post-matriculation or post-secondary courses in recognized institutions.",
+        "Total family income from all sources must not exceed ₹2,50,000 per annum.",
+        "Students enrolled in same stage of education in different subject (e.g. B.Com after B.A.) are not eligible."
+      ]
+    },
+    "required_documents": [
+      "Official Caste / Community Certificate issued by designated Revenue Authority (SDM/Tehsildar)",
+      "Income Certificate of parents from competent revenue authority (<= ₹2.5 Lakh)",
+      "Previous Year Qualifying Marksheet",
+      "Current Year College Fee Receipt and Bonafide Certificate",
+      "Aadhaar Card",
+      "Hostel Warden Certificate (if claiming hosteller maintenance allowance)",
+      "Bank Account details linked with Aadhaar"
+    ],
+    "verification_checklist": [
+      "Ensure caste certificate barcode / number is verifiable on state revenue portal.",
+      "Check income certificate is dated within the current financial year.",
+      "Verify college fee receipt specifies non-refundable components clearly."
+    ]
+  },
+  {
+    "id": "pms-st-central",
+    "name": "Post-Matric Scholarship Scheme for Scheduled Tribe Students (PMS-ST)",
+    "short_name": "Post Matric ST Scholarship",
+    "ministry": "Ministry of Tribal Affairs, Govt. of India",
+    "scheme_type": "Centrally Sponsored",
+    "portal_name": "National Scholarship Portal (NSP)",
+    "official_portal_url": "https://scholarships.gov.in/",
+    "guidelines_url": "https://tribal.nic.in/Schemes.aspx",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Operated through the National Scholarship Portal and respective state tribal welfare departments.",
+    "benefit_amount_display": "Full Tuition Fee Waiver + Monthly Maintenance Allowance",
+    "benefit_details": "Comprehensive assistance covering mandatory college tuition fees, study tour charges, thesis typing charges, and monthly maintenance allowance paid directly via DBT.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)", "Postgraduate (PG)", "Diploma / Polytechnic", "Doctoral (PhD)", "Class 11 / 12 (Higher Secondary)", "ITI / Vocational"],
+      "allowed_years": ["1st Year", "2nd Year", "3rd Year", "4th Year", "5th Year", "Final Year"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["Scheduled Tribe (ST)"],
+      "min_marks_percent": null,
+      "max_annual_income": 250000,
+      "domicile_states": ["All India / Central"],
+      "pwd_required": false,
+      "minority_only": false,
+      "technical_course_only": false,
+      "single_girl_child_only": false,
+      "other_conditions": [
+        "Candidate must belong to a recognized Scheduled Tribe (ST).",
+        "Enrolled in post-matric studies at recognized universities, colleges, or higher secondary schools.",
+        "Total family income from all sources must not exceed ₹2,50,000 per annum."
+      ]
+    },
+    "required_documents": [
+      "Valid ST Caste Certificate issued by Sub-Divisional Officer / Magistrate",
+      "Family Income Certificate issued by competent authority (< ₹2,50,000)",
+      "Marksheet of previous qualifying exam",
+      "College Bonafide Certificate and Admission Letter",
+      "Current year fee breakdown receipt",
+      "Aadhaar Card and Aadhaar-seeded Bank Passbook"
+    ],
+    "verification_checklist": [
+      "Ensure ST certificate is issued in applicant's name with valid digital signature/seal.",
+      "Confirm college institute code is registered under NSP / State Tribal Department.",
+      "Check income certificate is not older than allowed limit by state."
+    ]
+  },
+  {
+    "id": "pms-obc-central",
+    "name": "Post-Matric Scholarship for Other Backward Classes (OBC) Students",
+    "short_name": "Post Matric OBC Scholarship",
+    "ministry": "Ministry of Social Justice and Empowerment, Govt. of India",
+    "scheme_type": "Centrally Sponsored",
+    "portal_name": "National Scholarship Portal (NSP) / State Portals",
+    "official_portal_url": "https://scholarships.gov.in/",
+    "guidelines_url": "https://socialjustice.gov.in/schemes/27",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Implemented through State Governments and UT Administrations via NSP or State Scholarship Portals.",
+    "benefit_amount_display": "Reimbursement of Compulsory Fees + Maintenance Allowance",
+    "benefit_details": "Reimbursement of tuition and compulsory non-refundable fees, plus maintenance allowance of up to ₹10,000/year based on course category.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)", "Postgraduate (PG)", "Diploma / Polytechnic", "Doctoral (PhD)", "Class 11 / 12 (Higher Secondary)", "ITI / Vocational"],
+      "allowed_years": ["1st Year", "2nd Year", "3rd Year", "4th Year", "5th Year", "Final Year"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["OBC (Non-Creamy Layer)"],
+      "min_marks_percent": null,
+      "max_annual_income": 250000,
+      "domicile_states": ["All India / Central"],
+      "pwd_required": false,
+      "minority_only": false,
+      "technical_course_only": false,
+      "single_girl_child_only": false,
+      "other_conditions": [
+        "Belongs to Other Backward Classes (OBC) in the Central or State list.",
+        "Candidate must belong to Non-Creamy Layer (NCL).",
+        "Family income ceiling of ₹2,50,000 per annum.",
+        "Only two boys of the same parents are eligible (this restriction does not apply to girls)."
+      ]
+    },
+    "required_documents": [
+      "OBC Non-Creamy Layer (NCL) Certificate issued by competent revenue authority",
+      "Annual Family Income Certificate (<= ₹2.5 Lakh)",
+      "Qualifying Examination Marksheet",
+      "College Enrollment / Bonafide Certificate",
+      "Fee Receipt for the ongoing academic session",
+      "Aadhaar Card and Bank Account Statement"
+    ],
+    "verification_checklist": [
+      "Verify Non-Creamy Layer certificate is valid for the current financial year.",
+      "Ensure course is recognized by state or central regulatory authority.",
+      "Check income certificate matches details in NCL certificate."
+    ]
+  },
+  {
+    "id": "ishan-uday-ugc",
+    "name": "Ishan Uday Special Scholarship Scheme for North Eastern Region (NER)",
+    "short_name": "Ishan Uday Scholarship (NER)",
+    "ministry": "University Grants Commission (UGC), Ministry of Education",
+    "scheme_type": "Central Sector",
+    "portal_name": "National Scholarship Portal (NSP)",
+    "official_portal_url": "https://scholarships.gov.in/",
+    "guidelines_url": "https://www.ugc.gov.in/ner/",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Annual slot allocation of 10,000 fresh scholarships on NSP. Applications typically close between October and December.",
+    "benefit_amount_display": "₹5,400/month (General Degree) or ₹7,800/month (Technical / Medical)",
+    "benefit_details": "Direct monthly stipend transferred through DBT: ₹5,400 per month for general degree courses (approx ₹64,800/yr), or ₹7,800 per month for technical, professional, medical, and paramedical courses (approx ₹93,600/yr).",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)"],
+      "allowed_years": ["1st Year"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["General / Open", "OBC (Non-Creamy Layer)", "OBC (Creamy Layer)", "Scheduled Caste (SC)", "Scheduled Tribe (ST)", "Economically Weaker Section (EWS)"],
+      "min_marks_percent": null,
+      "max_annual_income": 450000,
+      "domicile_states": [
+        "Assam", "Arunachal Pradesh", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Sikkim", "Tripura"
+      ],
+      "pwd_required": false,
+      "minority_only": false,
+      "technical_course_only": false,
+      "single_girl_child_only": false,
+      "fresh_application_year": "1st Year",
+      "other_conditions": [
+        "Must have domicile of any North Eastern State (Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura).",
+        "Must have passed Class XII or equivalent examination from a school situated in the NER recognized by CBSE, ICSE, or State boards.",
+        "Must have secured admission in the 1st year of any general degree or professional degree course in recognized universities/colleges (UGC Section 2(f) and 12(B)).",
+        "Dual scholarship under Central schemes is prohibited."
+      ]
+    },
+    "required_documents": [
+      "Permanent Resident Certificate (PRC) / Domicile Certificate of North Eastern State",
+      "Class 12th Board Marksheet and Pass Certificate from NER School",
+      "Annual Family Income Certificate issued by competent authority (< ₹4.5 Lakh)",
+      "College Admission Allotment Letter and Bonafide Certificate",
+      "Fee Receipt for 1st Year UG",
+      "Aadhaar Card and Aadhaar-linked Bank Account Passbook"
+    ],
+    "verification_checklist": [
+      "Ensure your Domicile/PRC certificate is specifically from one of the 8 North Eastern states.",
+      "Confirm that Class 12th examination was passed from a school physically located within NER.",
+      "Check that your college is recognized under UGC Act (Section 2f/12B) or AICTE/MCI."
+    ]
+  },
+  {
+    "id": "post-matric-minorities",
+    "name": "Post-Matric Scholarship Scheme for Minorities",
+    "short_name": "Post Matric Minority Scholarship",
+    "ministry": "Ministry of Minority Affairs, Govt. of India",
+    "scheme_type": "Central Sector",
+    "portal_name": "National Scholarship Portal (NSP)",
+    "official_portal_url": "https://scholarships.gov.in/",
+    "guidelines_url": "https://minorityaffairs.gov.in/schemes/post-matric-scholarship-scheme",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Invited annually through the National Scholarship Portal. Renewal and fresh windows operate in the second half of the calendar year.",
+    "benefit_amount_display": "Admission & Course Fee + up to ₹1,200/month Maintenance Allowance",
+    "benefit_details": "Actual admission and tuition fee reimbursement (subject to ceiling) plus monthly maintenance allowance for 10 months in an academic year (₹570 to ₹1,200/month depending on course level and hosteller status). 30% of scholarships are earmarked for female students.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)", "Postgraduate (PG)", "Diploma / Polytechnic", "Doctoral (PhD)", "Class 11 / 12 (Higher Secondary)", "ITI / Vocational"],
+      "allowed_years": ["1st Year", "2nd Year", "3rd Year", "4th Year", "5th Year", "Final Year"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["General / Open", "OBC (Non-Creamy Layer)", "OBC (Creamy Layer)", "Economically Weaker Section (EWS)"],
+      "min_marks_percent": 50.0,
+      "max_annual_income": 200000,
+      "domicile_states": ["All India / Central"],
+      "pwd_required": false,
+      "minority_only": true,
+      "technical_course_only": false,
+      "single_girl_child_only": false,
+      "other_conditions": [
+        "Belongs to one of the notified minority communities: Muslim, Christian, Sikh, Buddhist, Jain, or Parsi.",
+        "Secured not less than 50% marks or equivalent grade in the previous final examination.",
+        "Annual income of parents/guardians from all sources does not exceed ₹2,00,000.",
+        "30% scholarship quota is specifically earmarked for girl students."
+      ]
+    },
+    "required_documents": [
+      "Self-declaration / Community Certificate of belonging to Minority Community",
+      "Marksheet of previous final examination showing >= 50% marks",
+      "Annual Family Income Certificate issued by authorized revenue officer (<= ₹2 Lakh)",
+      "Fee Receipt of current academic course",
+      "Institute Bonafide Certificate",
+      "Aadhaar Card and Bank Passbook (NPCI mapped)"
+    ],
+    "verification_checklist": [
+      "Verify previous examination score meets the mandatory 50.0% cutoff.",
+      "Check income certificate ceiling of ₹2,00,000.",
+      "Ensure self-declaration or religious community certificate is properly signed and uploaded."
+    ]
+  },
+  {
+    "id": "aicte-swanath-scheme",
+    "name": "AICTE Swanath Scholarship Scheme",
+    "short_name": "AICTE Swanath",
+    "ministry": "All India Council for Technical Education (AICTE), Ministry of Education",
+    "scheme_type": "UGC/AICTE Technical",
+    "portal_name": "National Scholarship Portal (NSP)",
+    "official_portal_url": "https://scholarships.gov.in/",
+    "guidelines_url": "https://www.aicte-india.org/schemes/students-development-schemes/Swanath",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Operated through the National Scholarship Portal (NSP). 2,000 scholarships awarded annually.",
+    "benefit_amount_display": "₹50,000 per annum for every year of study",
+    "benefit_details": "₹50,000 per annum for each year of study towards college fees, hostel expenses, purchase of books, equipment, and learning materials.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)", "Diploma / Polytechnic"],
+      "allowed_years": ["1st Year", "2nd Year", "3rd Year", "4th Year"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["General / Open", "OBC (Non-Creamy Layer)", "OBC (Creamy Layer)", "Scheduled Caste (SC)", "Scheduled Tribe (ST)", "Economically Weaker Section (EWS)"],
+      "min_marks_percent": null,
+      "max_annual_income": 800000,
+      "domicile_states": ["All India / Central"],
+      "pwd_required": false,
+      "minority_only": false,
+      "technical_course_only": true,
+      "single_girl_child_only": false,
+      "other_conditions": [
+        "Candidate must be either: (a) Orphan, or (b) Either or both parents died due to COVID-19, or (c) Wards of Armed Forces and Central Paramilitary Forces martyred in action (Shaheed).",
+        "Must be admitted to an AICTE approved technical institution for Degree or Diploma course.",
+        "Family income must not exceed ₹8,00,000 per annum."
+      ]
+    },
+    "required_documents": [
+      "Death certificate of parents or Shaheed / Martyrdom certificate from Armed Forces authority",
+      "Orphan certificate issued by competent district social welfare / revenue authority (if applicable)",
+      "Income Certificate (< ₹8 Lakh per annum)",
+      "Class 10th and 12th / Diploma Marksheet",
+      "Admission confirmation letter in AICTE approved college",
+      "Aadhaar Card and Student Bank Account details"
+    ],
+    "verification_checklist": [
+      "Ensure parent death / martyr certificate is issued by recognized government or military authority.",
+      "Verify college has active AICTE affiliation for the course.",
+      "Confirm student bank account is active and seeded with Aadhaar."
+    ]
+  },
+  {
+    "id": "mahadbt-ebc-scholarship",
+    "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)",
+    "short_name": "Maharashtra MahaDBT EBC Scheme",
+    "ministry": "Higher and Technical Education Department, Government of Maharashtra",
+    "scheme_type": "State Government",
+    "portal_name": "MahaDBT (Aaple Sarkar DBT Portal)",
+    "official_portal_url": "https://mahadbt.maharashtra.gov.in/",
+    "guidelines_url": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DD5FA703C38E51",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Portal is managed by Government of Maharashtra. Usually opens in August and has multiple extension phases through January/February.",
+    "benefit_amount_display": "50% Tuition Fee & Exam Fee Waiver (Reimbursement)",
+    "benefit_details": "50% concession on tuition fees and exam fees for students admitted through CAP round in Government, Aided, and Unaided Private professional and non-professional higher education colleges in Maharashtra.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)", "Postgraduate (PG)", "Diploma / Polytechnic"],
+      "allowed_years": ["1st Year", "2nd Year", "3rd Year", "4th Year", "5th Year", "Final Year"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["General / Open", "Economically Weaker Section (EWS)"],
+      "min_marks_percent": null,
+      "max_annual_income": 800000,
+      "domicile_states": ["Maharashtra"],
+      "pwd_required": false,
+      "minority_only": false,
+      "technical_course_only": false,
+      "single_girl_child_only": false,
+      "other_conditions": [
+        "Candidate must be a Domicile of Maharashtra State.",
+        "Admission must be taken through Centralized Admission Process (CAP) round.",
+        "Gross annual family income must not exceed ₹8,00,000 per annum (for income up to ₹2.5L 50% waiver; for ₹2.5L to ₹8L 50% tuition waiver).",
+        "Only up to 2 beneficiaries per family for professional courses.",
+        "Minimum 50% attendance required in previous semester/year."
+      ]
+    },
+    "required_documents": [
+      "Domicile Certificate of Maharashtra State issued by Tehsildar/SDO",
+      "Income Certificate issued by Tahsildar (strictly for the current financial year, <= ₹8 Lakh)",
+      "CAP Allotment Letter / Merit list confirmation letter",
+      "Class 10th, 12th, or previous semester marksheet",
+      "Current Year College Fee Receipt",
+      "Ration Card or Family Declaration Affidavit (specifying number of children)",
+      "Aadhaar Card and Bank Account seeded with NPCI"
+    ],
+    "verification_checklist": [
+      "Check that your Domicile certificate mentions 'State of Maharashtra'.",
+      "Confirm admission was through government CAP round (Management/NRI quota admissions are not eligible).",
+      "Ensure Tahsildar income certificate is currently valid."
+    ]
+  },
+  {
+    "id": "up-postmatric-scholarship",
+    "name": "Uttar Pradesh Post-Matric Scholarship Scheme (Dashmottar)",
+    "short_name": "UP Dashmottar Scholarship",
+    "ministry": "Social Welfare / Backward Classes / Minority Department, Govt. of Uttar Pradesh",
+    "scheme_type": "State Government",
+    "portal_name": "UP Scholarship Portal",
+    "official_portal_url": "https://scholarship.up.gov.in/",
+    "guidelines_url": "https://scholarship.up.gov.in/index.aspx",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Administered directly by UP Social Welfare Department. Application windows typically run July-November each year with phased disbursement.",
+    "benefit_amount_display": "Non-Refundable Fee Reimbursement + Monthly Maintenance Allowance",
+    "benefit_details": "Full or partial reimbursement of verified non-refundable tuition and institutional fees plus monthly maintenance stipend paid directly into Aadhaar-seeded bank accounts.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)", "Postgraduate (PG)", "Diploma / Polytechnic", "Doctoral (PhD)", "ITI / Vocational"],
+      "allowed_years": ["1st Year", "2nd Year", "3rd Year", "4th Year", "5th Year", "Final Year"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["General / Open", "OBC (Non-Creamy Layer)", "Scheduled Caste (SC)", "Scheduled Tribe (ST)", "Economically Weaker Section (EWS)"],
+      "min_marks_percent": null,
+      "max_annual_income": 200000,
+      "domicile_states": ["Uttar Pradesh"],
+      "pwd_required": false,
+      "minority_only": false,
+      "technical_course_only": false,
+      "single_girl_child_only": false,
+      "other_conditions": [
+        "Candidate must be a bona fide resident/domicile of Uttar Pradesh.",
+        "Annual family income cap: ₹2,00,000 for General/OBC/Minority; ₹2,50,000 for SC/ST students.",
+        "Student must be enrolled in a recognized college/institution in Uttar Pradesh.",
+        "Attendance must be at least 75% as verified by the institute on the UP portal."
+      ]
+    },
+    "required_documents": [
+      "UP Domicile / Niwas Praman Patra",
+      "Income Certificate (Aay Praman Patra) verifiable online through e-District UP",
+      "Caste Certificate (Jati Praman Patra) if applicable, verified via e-District UP",
+      "High School (10th) & Intermediate (12th) Marksheet",
+      "College Enrollment / Registration Number and Current Year Fee Receipt",
+      "Aadhaar Card with mobile linkage for DigiLocker authentication",
+      "Aadhaar-seeded Bank Passbook"
+    ],
+    "verification_checklist": [
+      "Ensure your Income and Caste certificates are online-verifiable on edistrict.up.gov.in.",
+      "Verify that your Aadhaar card name and date of birth match exactly with your High School marksheet.",
+      "Confirm college has verified and forwarded your digital application before state deadline."
+    ]
+  },
+  {
+    "id": "karnataka-ssp-postmatric",
+    "name": "Karnataka State Scholarship Portal (SSP) Post-Matric Scheme",
+    "short_name": "Karnataka SSP Scholarship",
+    "ministry": "Social Welfare / Backward Classes / Tribal Welfare Departments, Govt. of Karnataka",
+    "scheme_type": "State Government",
+    "portal_name": "State Scholarship Portal (SSP Karnataka)",
+    "official_portal_url": "https://ssp.postmatric.karnataka.gov.in/",
+    "guidelines_url": "https://ssp.postmatric.karnataka.gov.in/",
+    "last_verified_date": "2025-01-15",
+    "verification_status": "Verified from Official Guidelines",
+    "application_cycle_note": "Invited annually through Karnataka SSP portal. Registration requires Kutumba ID or Aadhaar authentication.",
+    "benefit_amount_display": "Course Fee Reimbursement + Hostel / Maintenance Stipend",
+    "benefit_details": "Tuition and exam fee reimbursement credited to college or student account, plus food and hostel maintenance allowance (up to ₹1,500/month) for eligible day scholars and hostellers.",
+    "eligibility_rules": {
+      "education_levels": ["Undergraduate (UG)", "Postgraduate (PG)", "Diploma / Polytechnic", "Doctoral (PhD)", "ITI / Vocational"],
+      "allowed_years": ["1st Year", "2nd Year", "3rd Year", "4th Year", "5th Year", "Final Year"],
+      "target_genders": ["All", "Female", "Male", "Transgender / Other"],
+      "target_categories": ["General / Open", "OBC (Non-Creamy Layer)", "Scheduled Caste (SC)", "Scheduled Tribe (ST)", "Economically Weaker Section (EWS)"],
+      "min_marks_percent": null,
+      "max_annual_income": 250000,
+      "domicile_states": ["Karnataka"],
+      "pwd_required": false,
+      "minority_only": false,
+      "technical_course_only": false,
+      "single_girl_child_only": false,
+      "other_conditions": [
+        "Candidate must be a permanent resident of Karnataka State.",
+        "Enrolled in post-matric courses in recognized Karnataka educational institutions.",
+        "Family income cap: ₹2,50,000 for SC/ST; ₹1,00,000 to ₹2,50,000 for Category 1/OBC depending on specific backward class sub-category.",
+        "Valid Kutumba (Family) ID and e-Attestation of documents are mandatory."
+      ]
+    },
+    "required_documents": [
+      "Karnataka RD Income and Caste Certificate (RD Number verifiable on Nadakacheri portal)",
+      "Karnataka Domicile Certificate / Study Certificate from Karnataka institutions (minimum 7 years)",
+      "Student Aadhaar Card and Kutumba Family ID",
+      "Current Year College Fee Receipt",
+      "Previous Semester / Year Marksheet",
+      "Bank Account details seeded with NPCI"
+    ],
+    "verification_checklist": [
+      "Verify RD number of Caste and Income certificate on Nadakacheri portal.",
+      "Complete e-Attestation of study certificate and marksheets via SSP e-attestation officer.",
+      "Check Kutumba family portal linking for student profile."
+    ]
+  }
+]
